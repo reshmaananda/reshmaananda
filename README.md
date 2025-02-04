@@ -2,7 +2,7 @@
 
 **Software Developer | Full-Stack Engineer | AI Enthusiast**
 
-Welcome to my GitHub profile! With expertise in designing and developing scalable, enterprise software systems, I am passionate optimizing backend systems, enhancing frontend experiences, and integrating intelligent automation.
+Welcome to my GitHub profile! I specialize in designing and developing scalable enterprise software, with a focus on optimizing backend systems, improving frontend experiences, and integrating intelligent automation.
 
 ---
 
