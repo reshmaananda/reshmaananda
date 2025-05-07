@@ -2,8 +2,11 @@
 
 **Software Developer | Full-Stack Engineer | AI Enthusiast**
 
-Welcome to my GitHub profile! I specialize in designing and developing scalable enterprise software, with a focus on optimizing backend systems, improving frontend experiences, and integrating intelligent automation.
+Hi, I’m Reshma — a software engineer with a background in full-stack development and cloud-native systems. I’m currently pursuing my MS in Computer Science at CWRU
+Most of my work sits at the intersection of backend engineering (Java Spring Boot, Kafka, Redis) and modern UIs (React, Angular), with recent forays into AI and data pipelines.
+This repo is a mix of side projects, class experiments, and things I wish existed.
 
+Thanks for stopping by.
 ---
 
 ## Technical Skills
